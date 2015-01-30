@@ -1,0 +1,432 @@
+Chieti	Abruzzo
+L'Aquila	Abruzzo
+Pescara	Abruzzo
+Teramo	Abruzzo
+Bari	Puglia
+Lecce	Puglia
+Foggia	Puglia
+Tarento	Puglia
+Brindisi	Puglia
+Barletta-Andria-Trani	Puglia
+Potenza	Basilicata
+Matera	Basilicata
+Cosenza	Calabria
+Reggio Calabria	Calabria
+Catanzaro	Calabria
+Crotone	Calabria
+Vibo Valentia	Calabria
+Nápoles	Campania
+Salerno	Campania
+Caserta	Campania
+Avellino	Campania
+Benevento	Campania
+Cagliari	Sardegna
+Sassari	Sardegna
+Oristano	Sardegna
+Nuoro	Sardegna
+Olbia-Tempio	Sardegna
+Carbonia-Iglesias	Sardegna
+Medio Campidano	Sardegna
+Ogliastra	Sardegna
+Bolonia	Emilia-Romagna
+Módena	Emilia-Romagna
+Reggio Emilia	Emilia-Romagna
+Parma	Emilia-Romagna
+Forlì-Cesena	Emilia-Romagna
+Rávena	Emilia-Romagna
+Ferrara	Emilia-Romagna
+Rimini	Emilia-Romagna
+Piacenza	Emilia-Romagna
+Udine	Friuli-Venezia Giulia
+Pordenone	Friuli-Venezia Giulia
+Trieste	Friuli-Venezia Giulia
+Gorizia	Friuli-Venezia Giulia
+Roma	Lazio
+Latina	Lazio
+Frosinone	Lazio
+Viterbo	Lazio
+Rieti	Lazio
+Génova	Liguria
+Savona	Liguria
+La Spezia	Liguria
+Imperia	Liguria
+Milán	Lombardia
+Brescia	Lombardia
+Bérgamo	Lombardia
+Varese	Lombardia
+Como	Lombardia
+Pavía	Lombardia
+Mantua	Lombardia
+Cremona	Lombardia
+Lecco	Lombardia
+Lodi	Lombardia
+Sondrio	Lombardia
+Ancona	Marche
+Ascoli Piceno	Marche
+Pesaro y Urbino	Marche
+Macerata	Marche
+Campobasso	Molise
+Isernia	Molise
+Turín	Piemonte
+Cuneo	Piemonte
+Alessandria	Piemonte
+Novara	Piemonte
+Asti	Piemonte
+Biella	Piemonte
+Vercelli	Piemonte
+Verbano Cusio Ossola	Piemonte
+Palermo	Sicilia
+Catania	Sicilia
+Messina	Sicilia
+Agrigento	Sicilia
+Trapani	Sicilia
+Siracusa	Sicilia
+Ragusa	Sicilia
+Caltanissetta	Sicilia
+Enna	Sicilia
+Florencia	Toscana
+Pisa	Toscana
+Lucca	Toscana
+Livorno	Toscana
+Arezzo	Toscana
+Pistoia	Toscana
+Siena	Toscana
+Prato	Toscana
+Grosseto	Toscana
+Massa-Carrara	Toscana
+Trento	Trentino-Alto Adige
+Bolzano/Bozen	Trentino-Alto Adige
+Perugia	Umbria
+Terni	Umbria
+Aosta	Valle d'Aosta
+Padua	Veneto
+Verona	Veneto
+Venecia	Veneto
+Treviso	Veneto
+Vicenza	Veneto
+Rovigo	Veneto
+Belluno	Veneto
+(CH)	Abruzzo
+(AQ)	Abruzzo
+(PE)	Abruzzo
+(TE)	Abruzzo
+(BA)	Puglia
+(LE)	Puglia
+(FG)	Puglia
+(TA)	Puglia
+(BR)	Puglia
+(BT)	Puglia
+(PZ)	Basilicata
+(MT)	Basilicata
+(CS)	Calabria
+(RC)	Calabria
+(CZ)	Calabria
+(KR)	Calabria
+(VV)	Calabria
+(NA)	Campania
+(SA)	Campania
+(CE)	Campania
+(AV)	Campania
+(BN)	Campania
+(CA)	Sardegna
+(SS)	Sardegna
+(OR)	Sardegna
+(NU)	Sardegna
+(OT)	Sardegna
+(CI)	Sardegna
+(MD)	Sardegna
+(OG)	Sardegna
+(BO)	Emilia-Romagna
+(MO)	Emilia-Romagna
+(RE)	Emilia-Romagna
+(PR)	Emilia-Romagna
+(FC)	Emilia-Romagna
+(RA)	Emilia-Romagna
+(FE)	Emilia-Romagna
+(RN)	Emilia-Romagna
+(PC)	Emilia-Romagna
+(UD)	Friuli-Venezia Giulia
+(PN)	Friuli-Venezia Giulia
+(TS)	Friuli-Venezia Giulia
+(GO)	Friuli-Venezia Giulia
+(RM)	Lazio
+(LT)	Lazio
+(FR)	Lazio
+(VT)	Lazio
+(RI)	Lazio
+(GE)	Liguria
+(SV)	Liguria
+(SP)	Liguria
+(IM)	Liguria
+(MI)	Lombardia
+(BS)	Lombardia
+(BG)	Lombardia
+(VA)	Lombardia
+(CO)	Lombardia
+(PV)	Lombardia
+(MN)	Lombardia
+(CR)	Lombardia
+(LC)	Lombardia
+(LO)	Lombardia
+(SO)	Lombardia
+(AN)	Marche
+(AP)	Marche
+(PU)	Marche
+(MC)	Marche
+(CB)	Molise
+(IS)	Molise
+(TO)	Piemonte
+(CN)	Piemonte
+(AL)	Piemonte
+(NO)	Piemonte
+(AT)	Piemonte
+(BI)	Piemonte
+(VC)	Piemonte
+(VB)	Piemonte
+(PA)	Sicilia
+(CT)	Sicilia
+(ME)	Sicilia
+(AG)	Sicilia
+(TP)	Sicilia
+(SR)	Sicilia
+(RG)	Sicilia
+(CL)	Sicilia
+(EN)	Sicilia
+(FI)	Toscana
+(PI)	Toscana
+(LU)	Toscana
+(LI)	Toscana
+(AR)	Toscana
+(PT)	Toscana
+(SI)	Toscana
+(PO)	Toscana
+(GR)	Toscana
+(MS)	Toscana
+(TN)	Trentino-Alto Adige
+(BZ)	Trentino-Alto Adige
+(PG)	Umbria
+(TR)	Umbria
+(AO)	Valle d'Aosta
+(PD)	Veneto
+(VR)	Veneto
+(VE)	Veneto
+(TV)	Veneto
+(VI)	Veneto
+(RO)	Veneto
+(BL)	Veneto
+(ch)	Abruzzo
+(aq)	Abruzzo
+(pe)	Abruzzo
+(te)	Abruzzo
+(ba)	Puglia
+(le)	Puglia
+(fg)	Puglia
+(ta)	Puglia
+(br)	Puglia
+(bt)	Puglia
+(pz)	Basilicata
+(mt)	Basilicata
+(cs)	Calabria
+(rc)	Calabria
+(cz)	Calabria
+(kr)	Calabria
+(vv)	Calabria
+(na)	Campania
+(sa)	Campania
+(ce)	Campania
+(av)	Campania
+(bn)	Campania
+(ca)	Sardegna
+(ss)	Sardegna
+(or)	Sardegna
+(nu)	Sardegna
+(ot)	Sardegna
+(ci)	Sardegna
+(md)	Sardegna
+(og)	Sardegna
+(bo)	Emilia-Romagna
+(mo)	Emilia-Romagna
+(re)	Emilia-Romagna
+(pr)	Emilia-Romagna
+(fc)	Emilia-Romagna
+(ra)	Emilia-Romagna
+(fe)	Emilia-Romagna
+(rn)	Emilia-Romagna
+(pc)	Emilia-Romagna
+(ud)	Friuli-Venezia Giulia
+(pn)	Friuli-Venezia Giulia
+(ts)	Friuli-Venezia Giulia
+(go)	Friuli-Venezia Giulia
+(rm)	Lazio
+(lt)	Lazio
+(fr)	Lazio
+(vt)	Lazio
+(ri)	Lazio
+(ge)	Liguria
+(sv)	Liguria
+(sp)	Liguria
+(im)	Liguria
+(mi)	Lombardia
+(bs)	Lombardia
+(bg)	Lombardia
+(va)	Lombardia
+(co)	Lombardia
+(pv)	Lombardia
+(mn)	Lombardia
+(cr)	Lombardia
+(lc)	Lombardia
+(lo)	Lombardia
+(so)	Lombardia
+(an)	Marche
+(ap)	Marche
+(pu)	Marche
+(mc)	Marche
+(cb)	Molise
+(is)	Molise
+(to)	Piemonte
+(cn)	Piemonte
+(al)	Piemonte
+(no)	Piemonte
+(at)	Piemonte
+(bi)	Piemonte
+(vc)	Piemonte
+(vb)	Piemonte
+(pa)	Sicilia
+(ct)	Sicilia
+(me)	Sicilia
+(ag)	Sicilia
+(tp)	Sicilia
+(sr)	Sicilia
+(rg)	Sicilia
+(cl)	Sicilia
+(en)	Sicilia
+(fi)	Toscana
+(pi)	Toscana
+(lu)	Toscana
+(li)	Toscana
+(ar)	Toscana
+(pt)	Toscana
+(si)	Toscana
+(po)	Toscana
+(gr)	Toscana
+(ms)	Toscana
+(tn)	Trentino-Alto Adige
+(bz)	Trentino-Alto Adige
+(pg)	Umbria
+(tr)	Umbria
+(ao)	Valle d'Aosta
+(pd)	Veneto
+(vr)	Veneto
+(ve)	Veneto
+(tv)	Veneto
+(vi)	Veneto
+(ro)	Veneto
+(bl)	Veneto
+Provincia CH	Abruzzo
+Provincia AQ	Abruzzo
+Provincia PE	Abruzzo
+Provincia TE	Abruzzo
+Provincia BA	Puglia
+Provincia LE	Puglia
+Provincia FG	Puglia
+Provincia TA	Puglia
+Provincia BR	Puglia
+Provincia BT	Puglia
+Provincia PZ	Basilicata
+Provincia MT	Basilicata
+Provincia CS	Calabria
+Provincia RC	Calabria
+Provincia CZ	Calabria
+Provincia KR	Calabria
+Provincia VV	Calabria
+Provincia NA	Campania
+Provincia SA	Campania
+Provincia CE	Campania
+Provincia AV	Campania
+Provincia BN	Campania
+Provincia CA	Sardegna
+Provincia SS	Sardegna
+Provincia OR	Sardegna
+Provincia NU	Sardegna
+Provincia OT	Sardegna
+Provincia CI	Sardegna
+Provincia MD	Sardegna
+Provincia OG	Sardegna
+Provincia BO	Emilia-Romagna
+Provincia MO	Emilia-Romagna
+Provincia RE	Emilia-Romagna
+Provincia PR	Emilia-Romagna
+Provincia FC	Emilia-Romagna
+Provincia RA	Emilia-Romagna
+Provincia FE	Emilia-Romagna
+Provincia RN	Emilia-Romagna
+Provincia PC	Emilia-Romagna
+Provincia UD	Friuli-Venezia Giulia
+Provincia PN	Friuli-Venezia Giulia
+Provincia TS	Friuli-Venezia Giulia
+Provincia GO	Friuli-Venezia Giulia
+Provincia RM	Lazio
+Provincia LT	Lazio
+Provincia FR	Lazio
+Provincia VT	Lazio
+Provincia RI	Lazio
+Provincia GE	Liguria
+Provincia SV	Liguria
+Provincia SP	Liguria
+Provincia IM	Liguria
+Provincia MI	Lombardia
+Provincia BS	Lombardia
+Provincia BG	Lombardia
+Provincia VA	Lombardia
+Provincia CO	Lombardia
+Provincia PV	Lombardia
+Provincia MN	Lombardia
+Provincia CR	Lombardia
+Provincia LC	Lombardia
+Provincia LO	Lombardia
+Provincia SO	Lombardia
+Provincia AN	Marche
+Provincia AP	Marche
+Provincia PU	Marche
+Provincia MC	Marche
+Provincia CB	Molise
+Provincia IS	Molise
+Provincia TO	Piemonte
+Provincia CN	Piemonte
+Provincia AL	Piemonte
+Provincia NO	Piemonte
+Provincia AT	Piemonte
+Provincia BI	Piemonte
+Provincia VC	Piemonte
+Provincia VB	Piemonte
+Provincia PA	Sicilia
+Provincia CT	Sicilia
+Provincia ME	Sicilia
+Provincia AG	Sicilia
+Provincia TP	Sicilia
+Provincia SR	Sicilia
+Provincia RG	Sicilia
+Provincia CL	Sicilia
+Provincia EN	Sicilia
+Provincia FI	Toscana
+Provincia PI	Toscana
+Provincia LU	Toscana
+Provincia LI	Toscana
+Provincia AR	Toscana
+Provincia PT	Toscana
+Provincia SI	Toscana
+Provincia PO	Toscana
+Provincia GR	Toscana
+Provincia MS	Toscana
+Provincia TN	Trentino-Alto Adige
+Provincia BZ	Trentino-Alto Adige
+Provincia PG	Umbria
+Provincia TR	Umbria
+Provincia AO	Valle d'Aosta
+Provincia PD	Veneto
+Provincia VR	Veneto
+Provincia VE	Veneto
+Provincia TV	Veneto
+Provincia VI	Veneto
+Provincia RO	Veneto
+Provincia BL	Veneto
